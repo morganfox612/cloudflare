@@ -1,9 +1,11 @@
-body{
+body {
   background-color: whitesmoke;
+  margin: 0;
 }
 
-.main-bar{
+.main-bar {
   text-transform: uppercase;
   list-style-type: none;
-  display: inline;
+  font-size: 12px;
+  font-weight: 600;
 }
