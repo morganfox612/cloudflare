@@ -1,0 +1,9 @@
+element.style {
+  display: none;
+  visibility: hidden;
+}
+
+iframe {
+  border: none;
+  width: 100;
+}
