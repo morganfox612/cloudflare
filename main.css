@@ -1,3 +1,21 @@
+
+element.style {
+  display: none;
+  visibility: hidden;
+}
+
+iframe {
+  border: none;
+  width: 100;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.7em;
+  font-family: sans-serif;
+  color: #424242;
+  margin: 0;
+=======
 footer {
 position: relative;
 background: #333;
