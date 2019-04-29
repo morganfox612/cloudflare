@@ -7,17 +7,17 @@ body {
 img{
   width: 130px;
 }
-.main-bar {
+.main-bar li {
   text-transform: uppercase;
-  list-style-type: none;
+  /* list-style-type: none; */
   font-size: 12px;
   font-weight: 600;
   display: inline;
-  height: 80px;
   line-height: 80px;
   white-space: nowrap;
-  position: fixed;
   max-width: 1200px;
   width: 200px;
 
 }
+/* position: fixed; */
+/* height: 80px; */
