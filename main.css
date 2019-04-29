@@ -10,3 +10,11 @@ h2 {
   width: inherit;
   text-decoration-style: solid;
 }
+
+h3 {
+  text-align: center;
+  color: inherit;
+  width: auto;
+  margin-right: auto;
+  text-decoration: line-through;
+}
