@@ -1,0 +1,9 @@
+footer {
+  z-index: 5;
+position: relative;
+background: #333;
+color: #222;
+width: 100%;
+margin: 0;
+padding-top: 15px;
+}
