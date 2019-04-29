@@ -1,6 +1,7 @@
 body {
   background-color: whitesmoke;
   margin: 0;
+  font-family: sans-serif;
 }
 
 .main-bar {
@@ -8,4 +9,10 @@ body {
   list-style-type: none;
   font-size: 12px;
   font-weight: 600;
+  display: list-item;
+  height: 80px;
+  line-height: 80px;
+  white-space: nowrap;
+  position: fixed;
+
 }
