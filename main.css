@@ -1,0 +1,9 @@
+body{
+  background-color: whitesmoke;
+}
+
+.main-bar{
+  text-transform: uppercase;
+  list-style-type: none;
+  display: inline;
+}
