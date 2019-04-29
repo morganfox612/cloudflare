@@ -16,3 +16,21 @@ padding-top: 15px;
     border: none;
     color: white;
 }
+
+.getting-started-menu {
+  margin: 40px 0;
+}
+
+.main-footer-row {
+  width: 100%;
+min-height: 300px;
+height: 100%;
+padding: 0 20px;
+}
+
+.main-footer-container {
+  width: 95%;
+    margin: 0 auto;
+    height: 100%;
+    max-width: 100%;
+}
