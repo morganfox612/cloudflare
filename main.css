@@ -5,6 +5,12 @@ body {
   color: #424242;
 }
 
+.main-header {
+  text-align:center;
+  padding-top: 50px;
+  width: inherit;
+  text-decoration: line-through;
+}
 
 h1 {
   text-align: center;
